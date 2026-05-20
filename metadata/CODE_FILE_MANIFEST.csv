@@ -1,0 +1,3 @@
+name,source_path,size_bytes,sha256,first_comment,has_hardcoded_paths,references_external_inputs
+07-Connection.py,/Users/dlev2617/Documents/Papers/~05-Published/Findings/Findings - Pavement Condition and Crashes/Long Pavement Condition and Crashes/Road Condition and Crashes - old/07-Connection.py,6857,455adca25b2b7f5ff8f708ba3b35daa933dea1bedd70fe46784c688139ff8bb0,"	#outputFile = open(os.path.join(root_path,""pavement_quality_2003"")+'.csv','a') #change year",yes,yes
+08-summarize.py,/Users/dlev2617/Documents/Papers/~05-Published/Findings/Findings - Pavement Condition and Crashes/Long Pavement Condition and Crashes/Road Condition and Crashes - old/08-summarize.py,5315,b1dcec6188827063d85ad1b9974cb967265b013930c4883fe4da369b8146c8ac,		#Dummy variable (Year),yes,yes

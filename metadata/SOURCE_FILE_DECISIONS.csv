@@ -1,0 +1,6 @@
+source_path,source_type,package_decision,reason
+paper/5771-pavement-condition-and-crashes.pdf,final_paper,included_in_paper_reference,Final paper copy used for audit validation and package reference.
+code/legacy_pavement_qgis/07-Connection.py; code/legacy_pavement_qgis/08-summarize.py,legacy_processing_code,included_code,Scripts match QGIS-style pavement/crash joining and summary workflow.
+/Users/dlev2617/Documents/Data/~Nexus_Data/Crashes and Pavement Quality/Processed data,processed_analysis_data,included_data,Crash2003-Crash2014 CSVs match the 2003-2014 model-ready segment panel described in the paper.
+/Users/dlev2617/Documents/Data/~Nexus_Data/Crashes and Pavement Quality/Data from MnDOT,mndot_source_data,included_data_selective,Included nonempty MnDOT pavement GIS/workbook files; excluded system/lock/empty placeholders.
+/Users/dlev2617/Documents/Data/~Nexus_Data/Crashes and Pavement Quality/Processed data/R Console.txt,dataless_console_transcript,not_copied_hydration_needed_optional,Dataless placeholder blocked on read; optional future hydrate if regression console transcript is needed.

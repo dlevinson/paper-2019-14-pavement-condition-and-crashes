@@ -1,0 +1,2 @@
+row_id,source_file,file_code,file_length_bytes,version,shape_type,shape_type_label,xmin,ymin,xmax,ymax
+paper-2019-14,data/source_mndot_2015_pavement/2015_M-Rec_Pvmt_Condition.shp,9994,4274996,1000,23,PolyLineM,189914.536,4816316.499,754702.626,5436045.539

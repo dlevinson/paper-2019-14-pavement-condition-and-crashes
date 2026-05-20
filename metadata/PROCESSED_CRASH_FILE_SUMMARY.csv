@@ -1,0 +1,13 @@
+row_id,file,rows,columns,years_in_YEAR,pntcnt_sum,fatal_sum,injury_sum,property_damage_sum
+paper-2019-14,data/processed_crash_panel/Crash2003.csv,15897,40,2003,26247,198,8079,17967
+paper-2019-14,data/processed_crash_panel/Crash2004.csv,15903,40,2004,29394,187,8740,20446
+paper-2019-14,data/processed_crash_panel/Crash2005.csv,15898,40,2005,27692,193,8241,19248
+paper-2019-14,data/processed_crash_panel/Crash2006.csv,15903,40,2006,24320,164,7478,16660
+paper-2019-14,data/processed_crash_panel/Crash2007.csv,15916,40,2007,25202,172,7727,17297
+paper-2019-14,data/processed_crash_panel/Crash2008.csv,15903,40,2008,25112,155,7574,17376
+paper-2019-14,data/processed_crash_panel/Crash2009.csv,15913,40,2009,22996,133,6937,15901
+paper-2019-14,data/processed_crash_panel/Crash2010.csv,15904,40,2010,23808,119,7266,16400
+paper-2019-14,data/processed_crash_panel/Crash2011.csv,15908,40,2011,23006,116,6905,15958
+paper-2019-14,data/processed_crash_panel/Crash2012.csv,15931,40,2012,22501,111,6811,15571
+paper-2019-14,data/processed_crash_panel/Crash2013.csv,15926,40,2013,26082,123,7373,18578
+paper-2019-14,data/processed_crash_panel/Crash2014.csv,15916,40,2014,25802,143,7058,18591
