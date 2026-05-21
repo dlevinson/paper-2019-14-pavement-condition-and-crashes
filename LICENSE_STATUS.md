@@ -1,6 +1,6 @@
 # License Status: Pavement Condition And Crashes
 
-Generated: 2026-05-21 20:57:23 AEST
+Generated: 2026-05-22 06:51:10 AEST
 
 Recorded license/access note from the verified audit row: MnDOT/source-agency provenance to cite; no individual-level human data identified. Final license decision still needed at upload.
 
