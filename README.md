@@ -1,5 +1,9 @@
 # Pavement Condition And Crashes
 
+## Contribution
+
+This paper links twelve years of Minnesota pavement-quality and crash records to test how road condition affects safety. It finds that poor pavement is associated with more property-damage and injury crashes and identifies a notable interaction on curves, demonstrating the value of combining infrastructure-condition and crash GIS databases.
+
 Row ID: `paper-2019-14`
 
 This is a public-ready review package for the Transport Findings paper. It includes the final paper reference, legacy Python/QGIS processing scripts, the user-identified local MnDOT pavement/crash analysis data folder, and generated metadata.
