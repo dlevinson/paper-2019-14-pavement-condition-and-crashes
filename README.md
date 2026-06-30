@@ -27,6 +27,13 @@ This is a public-ready review package for the Transport Findings paper. It inclu
 - `metadata/MNDOT_GIS_ATTRIBUTE_DICTIONARY.csv` and `metadata/MNDOT_GIS_LAYER_SUMMARY.csv` - shapefile attribute/header metadata.
 - `metadata/DATA_EXCLUSIONS.csv` and `metadata/SOURCE_FILE_DECISIONS.csv` - source inclusion/exclusion decisions.
 
+## License
+
+Author-created code and scripts are licensed under MIT. Repository-created
+documentation and derived data are licensed under CC BY 4.0. The paper PDF
+under `paper/` retains its published article terms, and public agency source
+data and other third-party materials are not relicensed here.
+
 ## Data Match
 
 The staged processed CSVs cover 2003-2014 and contain the variables described in the paper: segment IDs, AADT/truck share, pavement measures including RQI/PQI/SR/IRI, segment length, crash severity counts, pavement type, geometry, weather, and timing controls. The staged MnDOT source GIS/workbooks provide the pavement-quality/source-map context.
